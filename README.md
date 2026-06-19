@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-19 23:09 UTC_
+_Last updated 2026-06-19 23:30 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-19 23:09 UTC_
 | Take profit | 22% |
 | Stop loss | -12% |
 | Risk per trade | 14% |
-| Adaptive bias | 0.000 |
+| Adaptive bias | 0.021 |
 
 ## Learning state
 
-- Closed trades: **581**
-- Win rate (last 30): **43%**
-- Win / loss streak: **1** / **0**
+- Closed trades: **587**
+- Win rate (last 30): **47%**
+- Win / loss streak: **0** / **2**
 - Mutations adopted: **0**
-- SOL balance: **0.407**
-- Dominant emotions: anticipation 99, sadness 79, fear 79
+- SOL balance: **0.375**
+- Dominant emotions: anticipation 100, anger 82, fear 78
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $WASABICRAFT | +19.0% | 11m |
-| $PROVE | -5.0% | 10m |
-| $MANIFEST | -1.0% | 10m |
-| $WASABICRAFT | -4.0% | 11m |
-| $PROVE | +2.0% | 10m |
-| $WASABICRAFT | -7.0% | 11m |
+| $PROVE | -3.0% | 11m |
+| $MANIFEST | +0.0% | 11m |
+| $WASABICRAFT | +11.0% | 10m |
+| $GTAVI | -36.0% | 1m |
+| $PROVE | +2.0% | 11m |
+| $MANIFEST | +3.0% | 11m |
