@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-19 20:25 UTC_
+_Last updated 2026-06-19 20:45 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-19 20:25 UTC_
 | Take profit | 22% |
 | Stop loss | -12% |
 | Risk per trade | 14% |
-| Adaptive bias | -0.033 |
+| Adaptive bias | 0.008 |
 
 ## Learning state
 
-- Closed trades: **538**
-- Win rate (last 30): **47%**
+- Closed trades: **544**
+- Win rate (last 30): **43%**
 - Win / loss streak: **0** / **1**
 - Mutations adopted: **0**
-- SOL balance: **0.422**
-- Dominant emotions: anticipation 98, anger 78, sadness 68
+- SOL balance: **0.450**
+- Dominant emotions: anticipation 98, fear 92, sadness 91
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $TOXICPIXEL | -15.0% | 3m |
-| $PROVE | +4.0% | 11m |
-| $SIPPO | +47.0% | 2m |
-| $MANIFEST | -1.0% | 11m |
-| $SIPPO | +52.0% | 2m |
-| $FARM | -2.0% | 10m |
+| $TOXICPIXEL | -13.0% | 1m |
+| $MANIFEST | +1.0% | 11m |
+| $TOXICPIXEL | -26.0% | 1m |
+| $FARM | -6.0% | 11m |
+| $TOXICPIXEL | -9.0% | 5m |
+| $MANIFEST | -1.0% | 10m |
