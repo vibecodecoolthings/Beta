@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-19 10:10 UTC_
+_Last updated 2026-06-19 10:30 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-19 10:10 UTC_
 | Take profit | 22% |
 | Stop loss | -12% |
 | Risk per trade | 14% |
-| Adaptive bias | 0.046 |
+| Adaptive bias | -0.017 |
 
 ## Learning state
 
-- Closed trades: **382**
-- Win rate (last 30): **47%**
-- Win / loss streak: **0** / **1**
+- Closed trades: **387**
+- Win rate (last 30): **50%**
+- Win / loss streak: **3** / **0**
 - Mutations adopted: **0**
-- SOL balance: **0.429**
-- Dominant emotions: anticipation 100, fear 95, sadness 93
+- SOL balance: **0.387**
+- Dominant emotions: anticipation 100, anger 67, sadness 63
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $MCAT | +1.0% | 11m |
+| $Nudaeng | +12.0% | 10m |
+| $CookingTrump | +13.0% | 11m |
+| $MCAT | -9.0% | 11m |
+| $MANIFEST | +0.0% | 11m |
 | $Nudaeng | -4.0% | 11m |
-| $CookingTrump | +10.0% | 11m |
-| $MCAT | +0.0% | 11m |
-| $Nudaeng | +0.0% | 11m |
-| $CookingTrump | -5.0% | 11m |
-| $BubbleMan | -79.0% | 1m |
