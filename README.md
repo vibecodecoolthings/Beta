@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-20 00:12 UTC_
+_Last updated 2026-06-20 00:20 UTC_
 
 ## Current strategy
 
@@ -15,26 +15,26 @@ _Last updated 2026-06-20 00:12 UTC_
 | Preferred column | migrated |
 | Buy threshold | 0.340 |
 | Take profit | 22% |
-| Stop loss | -12% |
+| Stop loss | -10% |
 | Risk per trade | 14% |
-| Adaptive bias | 0.038 |
+| Adaptive bias | 0.055 |
 
 ## Learning state
 
-- Closed trades: **597**
-- Win rate (last 30): **50%**
-- Win / loss streak: **0** / **6**
-- Mutations adopted: **0**
-- SOL balance: **0.371**
-- Dominant emotions: anticipation 98, sadness 90, fear 88
+- Closed trades: **600**
+- Win rate (last 30): **47%**
+- Win / loss streak: **0** / **2**
+- Mutations adopted: **1**
+- SOL balance: **0.391**
+- Dominant emotions: anticipation 99, fear 99, sadness 96
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $PROVE | -5.0% | 10m |
+| $WASABICRAFT | -3.0% | 11m |
+| $TIDEMESH | +8.0% | 11m |
 | $TIDEMESH | -12.0% | 7m |
 | $WASABICRAFT | -7.0% | 11m |
 | $GTAVI | -75.0% | 1m |
-| $PROVE | +0.0% | 10m |
-| $WASABICRAFT | -3.0% | 11m |
-| $PROVE | -3.0% | 11m |
