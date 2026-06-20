@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-20 16:30 UTC_
+_Last updated 2026-06-20 16:51 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-20 16:30 UTC_
 | Take profit | 22% |
 | Stop loss | -10% |
 | Risk per trade | 14% |
-| Adaptive bias | 0.028 |
+| Adaptive bias | -0.002 |
 
 ## Learning state
 
-- Closed trades: **846**
-- Win rate (last 30): **47%**
-- Win / loss streak: **2** / **0**
+- Closed trades: **853**
+- Win rate (last 30): **43%**
+- Win / loss streak: **0** / **3**
 - Mutations adopted: **1**
-- SOL balance: **0.366**
-- Dominant emotions: anticipation 100, sadness 71, fear 64
+- SOL balance: **0.427**
+- Dominant emotions: anticipation 98, anger 85, fear 83
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $ZERO | +2.0% | 11m |
-| $glippy | +2.0% | 11m |
-| $ZERO | -5.0% | 9m |
-| $glippy | -40.0% | 2m |
-| $glippy | -9.0% | 4m |
-| $ZERO | -4.0% | 11m |
+| $PEVOLUTION | -12.0% | 3m |
+| $ZERO | -5.0% | 11m |
+| $PEVOLUTION | -11.0% | 2m |
+| $ZERO | +9.0% | 11m |
+| $PEVOLUTION | -14.0% | 1m |
+| $glippy | +13.0% | 11m |
