@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-25 23:08 UTC_
+_Last updated 2026-06-25 23:29 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-25 23:08 UTC_
 | Take profit | 22% |
 | Stop loss | -12% |
 | Risk per trade | 14% |
-| Adaptive bias | 0.003 |
+| Adaptive bias | 0.071 |
 
 ## Learning state
 
-- Closed trades: **106**
-- Win rate (last 30): **47%**
-- Win / loss streak: **1** / **0**
+- Closed trades: **112**
+- Win rate (last 30): **33%**
+- Win / loss streak: **0** / **5**
 - Mutations adopted: **0**
-- SOL balance: **0.392**
-- Dominant emotions: anticipation 100, anger 86, fear 82
+- SOL balance: **0.397**
+- Dominant emotions: anger 98, anticipation 98, sadness 97
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $KOG | +31.0% | 2m |
-| $KOG | -13.0% | 1m |
-| $BIGEYES | +0.0% | 11m |
-| $KOG | -24.0% | 5m |
-| $DUMPSTR | +15.0% | 11m |
-| $KOG | -17.0% | 8m |
+| $KOG | -51.0% | 1m |
+| $KOG | -9.0% | 2m |
+| $KOG | -36.0% | 1m |
+| $KOG | -29.0% | 1m |
+| $KOG | -23.0% | 2m |
+| $DUMPSTR | +13.0% | 11m |
