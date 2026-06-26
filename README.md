@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-26 07:13 UTC_
+_Last updated 2026-06-26 07:34 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-26 07:13 UTC_
 | Take profit | 22% |
 | Stop loss | -12% |
 | Risk per trade | 14% |
-| Adaptive bias | 0.016 |
+| Adaptive bias | 0.011 |
 
 ## Learning state
 
-- Closed trades: **222**
-- Win rate (last 30): **60%**
+- Closed trades: **227**
+- Win rate (last 30): **53%**
 - Win / loss streak: **1** / **0**
 - Mutations adopted: **1**
-- SOL balance: **0.231**
-- Dominant emotions: anticipation 99, anger 65, sadness 60
+- SOL balance: **0.240**
+- Dominant emotions: anticipation 98, anger 68, fear 66
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $TMB | +0.0% | 11m |
+| $𝕏GIFT | -4.0% | 11m |
+| $PENISPUMP | -4.0% | 11m |
+| $TMB | -2.0% | 10m |
+| $𝕏GIFT | +1.0% | 11m |
 | $PENISPUMP | +7.0% | 11m |
-| $TMB | -12.0% | 10m |
-| $𝕏GIFT | +4.0% | 10m |
-| $PENISPUMP | -1.0% | 10m |
-| $WifStick | -16.0% | 4m |
-| $𝕏GIFT | +8.0% | 11m |
