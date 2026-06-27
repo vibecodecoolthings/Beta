@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-27 08:13 UTC_
+_Last updated 2026-06-27 08:34 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-27 08:13 UTC_
 | Take profit | 22% |
 | Stop loss | -12% |
 | Risk per trade | 14% |
-| Adaptive bias | -0.008 |
+| Adaptive bias | 0.027 |
 
 ## Learning state
 
-- Closed trades: **130**
-- Win rate (last 30): **53%**
-- Win / loss streak: **2** / **0**
+- Closed trades: **137**
+- Win rate (last 30): **50%**
+- Win / loss streak: **0** / **2**
 - Mutations adopted: **1**
-- SOL balance: **0.341**
-- Dominant emotions: anticipation 99, anger 64, joy 62
+- SOL balance: **0.414**
+- Dominant emotions: anticipation 98, anger 82, fear 75
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $BUTT | +0.0% | 11m |
-| $TRADER | +30.0% | 9m |
-| $CAFE | -19.0% | 2m |
-| $liquititty | +2.0% | 10m |
-| $TRADER | -21.0% | 4m |
-| $CAFE | +36.0% | 10m |
+| $CAFE | -37.0% | 1m |
+| $Pondeer | -11.0% | 9m |
+| $BUTT | +3.0% | 11m |
+| $CAFE | -22.0% | 2m |
+| $Pondeer | +38.0% | 10m |
+| $CAFE | -6.0% | 10m |
