@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-27 13:24 UTC_
+_Last updated 2026-06-27 13:45 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-27 13:24 UTC_
 | Take profit | 22% |
 | Stop loss | -12% |
 | Risk per trade | 14% |
-| Adaptive bias | 0.048 |
+| Adaptive bias | 0.053 |
 
 ## Learning state
 
-- Closed trades: **211**
-- Win rate (last 30): **43%**
-- Win / loss streak: **2** / **0**
+- Closed trades: **216**
+- Win rate (last 30): **40%**
+- Win / loss streak: **0** / **2**
 - Mutations adopted: **1**
-- SOL balance: **0.390**
-- Dominant emotions: anticipation 98, sadness 73, anger 69
+- SOL balance: **0.381**
+- Dominant emotions: anticipation 98, fear 94, sadness 89
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $FISSION | -6.0% | 11m |
+| $PokéBomber | -20.0% | 1m |
+| $Pondeer | +5.0% | 11m |
+| $BANANA | -4.0% | 11m |
+| $TRADER | -25.0% | 10m |
 | $BANANA | +42.0% | 8m |
-| $Pondeer | +1.0% | 11m |
-| $BUTT | -75.0% | 3m |
-| $Venezuela | +5.0% | 10m |
-| $Pondeer | -18.0% | 2m |
-| $PokéBomber | +4.0% | 10m |
