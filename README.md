@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-28 15:12 UTC_
+_Last updated 2026-06-28 15:32 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-28 15:12 UTC_
 | Take profit | 25% |
 | Stop loss | -12% |
 | Risk per trade | 16% |
-| Adaptive bias | -0.053 |
+| Adaptive bias | -0.022 |
 
 ## Learning state
 
-- Closed trades: **600**
-- Win rate (last 30): **47%**
-- Win / loss streak: **4** / **0**
+- Closed trades: **606**
+- Win rate (last 30): **50%**
+- Win / loss streak: **0** / **1**
 - Mutations adopted: **3**
-- SOL balance: **0.313**
-- Dominant emotions: anticipation 100, joy 85, anger 63
+- SOL balance: **0.306**
+- Dominant emotions: anticipation 100, anger 78, joy 65
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $🐂🀄️ | +6.0% | 10m |
-| $GOKHSHTEIN | +14.0% | 10m |
-| $WYNN | +3.0% | 11m |
-| $🐂🀄️ | +18.0% | 10m |
-| $Jotchua | -3.0% | 11m |
-| $🐂🀄 | +39.0% | 11m |
+| $WYNN | -13.0% | 4m |
+| $Hobbes | +13.0% | 11m |
+| $GOKHSHTEIN | -17.0% | 7m |
+| $🐂🀄️ | -25.0% | 10m |
+| $🐂🀄️ | +2.0% | 11m |
+| $WYNN | +53.0% | 10m |
