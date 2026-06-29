@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-29 00:34 UTC_
+_Last updated 2026-06-29 00:55 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-29 00:34 UTC_
 | Take profit | 25% |
 | Stop loss | -12% |
 | Risk per trade | 16% |
-| Adaptive bias | 0.053 |
+| Adaptive bias | 0.028 |
 
 ## Learning state
 
-- Closed trades: **741**
-- Win rate (last 30): **27%**
-- Win / loss streak: **0** / **2**
+- Closed trades: **747**
+- Win rate (last 30): **23%**
+- Win / loss streak: **1** / **0**
 - Mutations adopted: **4**
-- SOL balance: **0.326**
-- Dominant emotions: anticipation 100, sadness 90, fear 88
+- SOL balance: **0.341**
+- Dominant emotions: anticipation 98, sadness 91, fear 88
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $BANKS | -11.0% | 8m |
-| $ALON | -9.0% | 1m |
-| $world | +1.0% | 10m |
-| $BANKS | -25.0% | 1m |
-| $WYNN | -7.0% | 10m |
-| $FOMO | -22.0% | 1m |
+| $WYNN | +2.0% | 10m |
+| $ALON | -17.0% | 6m |
+| $world | -4.0% | 10m |
+| $ANSEMHOUSE | -1.0% | 10m |
+| $WYNN | -2.0% | 10m |
+| $SOLANGELES | -3.0% | 10m |
