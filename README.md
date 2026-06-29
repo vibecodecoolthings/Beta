@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-06-29 18:09 UTC_
+_Last updated 2026-06-29 18:30 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-06-29 18:09 UTC_
 | Take profit | 25% |
 | Stop loss | -10% |
 | Risk per trade | 16% |
-| Adaptive bias | 0.009 |
+| Adaptive bias | 0.043 |
 
 ## Learning state
 
-- Closed trades: **1003**
-- Win rate (last 30): **47%**
-- Win / loss streak: **1** / **0**
+- Closed trades: **1010**
+- Win rate (last 30): **33%**
+- Win / loss streak: **0** / **6**
 - Mutations adopted: **6**
-- SOL balance: **0.241**
-- Dominant emotions: anticipation 99, sadness 79, anger 78
+- SOL balance: **0.268**
+- Dominant emotions: anticipation 98, sadness 96, fear 95
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $world | +5.0% | 10m |
-| $BULLCAT | -10.0% | 9m |
-| $Speedrun | -11.0% | 9m |
-| $world | +16.0% | 10m |
-| $ANSEMWORK | -6.0% | 10m |
-| $Speedrun | +14.0% | 10m |
+| $meme | -29.0% | 3m |
+| $TATE | -7.0% | 1m |
+| $BULLWIF | -8.0% | 4m |
+| $world | -9.0% | 10m |
+| $Speedrun | -2.0% | 10m |
+| $BULLWIF | -12.0% | 2m |
