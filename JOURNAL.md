@@ -2,6 +2,10 @@
 
 Newest first. Each entry is a factual learning event the agent committed autonomously.
 
+## 2026-07-01 14:17 UTC
+
+Adopted a col mutation: migrated → stretch (trial PnL 9.1% vs baseline -2.3% over 8/22 trades).
+
 ## 2026-07-01 14:13 UTC
 
 Snapshot — 1679 trades closed, win rate 40%, 9 mutations adopted, bias -0.025.
@@ -1597,7 +1601,3 @@ Snapshot — 112 trades closed, win rate 33%, 0 mutations adopted, bias 0.071.
 ## 2026-06-25 23:08 UTC
 
 Snapshot — 106 trades closed, win rate 47%, 0 mutations adopted, bias 0.003.
-
-## 2026-06-25 22:48 UTC
-
-Snapshot — 100 trades closed, win rate 50%, 0 mutations adopted, bias 0.051.
