@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-01 04:31 UTC_
+_Last updated 2026-07-01 04:52 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-01 04:31 UTC_
 | Take profit | 25% |
 | Stop loss | -10% |
 | Risk per trade | 14% |
-| Adaptive bias | -0.001 |
+| Adaptive bias | -0.008 |
 
 ## Learning state
 
-- Closed trades: **1532**
-- Win rate (last 30): **57%**
-- Win / loss streak: **1** / **0**
+- Closed trades: **1538**
+- Win rate (last 30): **50%**
+- Win / loss streak: **0** / **1**
 - Mutations adopted: **8**
-- SOL balance: **0.317**
-- Dominant emotions: anticipation 99, sadness 64, anger 63
+- SOL balance: **0.309**
+- Dominant emotions: anticipation 100, anger 75, sadness 64
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $TOESCOIN | +0.0% | 10m |
-| $ANSEM | -3.0% | 10m |
-| $Vulland | +12.0% | 10m |
-| $TOESCOIN | +6.0% | 10m |
-| $ANSEM | -2.0% | 10m |
-| $dog | -4.0% | 10m |
+| $CATWIF | -6.0% | 10m |
+| $Horseradish | +7.0% | 10m |
+| $dog | +4.0% | 10m |
+| $ANSEM | -1.0% | 10m |
+| $CATWIF | +3.0% | 10m |
+| $BitBoy | -1.0% | 10m |
