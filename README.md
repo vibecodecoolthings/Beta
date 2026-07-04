@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-04 03:00 UTC_
+_Last updated 2026-07-04 03:21 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-04 03:00 UTC_
 | Take profit | 25% |
 | Stop loss | -10% |
 | Risk per trade | 14% |
-| Adaptive bias | -0.036 |
+| Adaptive bias | -0.034 |
 
 ## Learning state
 
-- Closed trades: **1939**
-- Win rate (last 30): **60%**
-- Win / loss streak: **3** / **0**
+- Closed trades: **1944**
+- Win rate (last 30): **57%**
+- Win / loss streak: **1** / **0**
 - Mutations adopted: **10**
-- SOL balance: **12949932780982.027**
-- Dominant emotions: anticipation 100, anger 67, joy 59
+- SOL balance: **12933607911678.170**
+- Dominant emotions: anticipation 98, anger 71, joy 62
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $BULLCHUA | +0.0% | 10m |
+| $BULLCHUA | -15.0% | 4m |
+| $BULLCHUA | +38.0% | 7m |
+| $Cow | +0.0% | 10m |
+| $BULLCHUA | -12.0% | 3m |
 | $BULLCHUA | +4.0% | 10m |
-| $Cow | +0.0% | 10m |
-| $BULLCHUA | +71.0% | 10m |
-| $Blepe | +0.0% | 10m |
-| $Cow | +0.0% | 10m |
-| $Blepe | -8.0% | 5m |
