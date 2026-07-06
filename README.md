@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-06 05:34 UTC_
+_Last updated 2026-07-06 05:55 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-06 05:34 UTC_
 | Take profit | 25% |
 | Stop loss | -10% |
 | Risk per trade | 14% |
-| Adaptive bias | -0.028 |
+| Adaptive bias | -0.022 |
 
 ## Learning state
 
-- Closed trades: **2514**
+- Closed trades: **2519**
 - Win rate (last 30): **60%**
-- Win / loss streak: **2** / **0**
+- Win / loss streak: **0** / **1**
 - Mutations adopted: **11**
-- SOL balance: **8501525980183.941**
-- Dominant emotions: anticipation 100, anger 69, joy 51
+- SOL balance: **7926197395803.497**
+- Dominant emotions: anticipation 99, anger 74, joy 52
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $Goob | -2.0% | 10m |
+| $Vegeta | +0.0% | 10m |
+| $HOBBES | -7.0% | 10m |
+| $Goob | +0.0% | 10m |
+| $manlet | +0.0% | 10m |
 | $LEVI | +28.0% | 10m |
-| $Goob | +21.0% | 10m |
-| $manlet | -3.0% | 10m |
-| $ANSEM | -3.0% | 10m |
-| $公牛 | +20.0% | 10m |
-| $Goob | +26.0% | 10m |
