@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-07 11:32 UTC_
+_Last updated 2026-07-07 11:53 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-07 11:32 UTC_
 | Take profit | 25% |
 | Stop loss | -10% |
 | Risk per trade | 14% |
-| Adaptive bias | -0.026 |
+| Adaptive bias | 0.005 |
 
 ## Learning state
 
-- Closed trades: **2878**
-- Win rate (last 30): **63%**
-- Win / loss streak: **0** / **2**
+- Closed trades: **2883**
+- Win rate (last 30): **57%**
+- Win / loss streak: **0** / **1**
 - Mutations adopted: **12**
-- SOL balance: **2912162824571.938**
-- Dominant emotions: anticipation 97, anger 81, fear 64
+- SOL balance: **2916457514698.921**
+- Dominant emotions: anticipation 96, anger 73, sadness 57
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $기름이oil | -12.0% | 2m |
+| $WIF | +0.0% | 10m |
+| $hokahoka | +0.0% | 10m |
+| $기름이oil | -12.0% | 1m |
+| $KORI | +4.0% | 10m |
 | $CLC army | +0.0% | 10m |
-| $KORI | -14.0% | 1m |
-| $KORI | +31.0% | 7m |
-| $PIÑA | +0.0% | 10m |
-| $KORI | -10.0% | 2m |
-| $KORI | -16.0% | 2m |
