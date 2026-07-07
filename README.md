@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-07 11:11 UTC_
+_Last updated 2026-07-07 11:32 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-07 11:11 UTC_
 | Take profit | 25% |
 | Stop loss | -10% |
 | Risk per trade | 14% |
-| Adaptive bias | -0.018 |
+| Adaptive bias | -0.026 |
 
 ## Learning state
 
-- Closed trades: **2873**
-- Win rate (last 30): **67%**
+- Closed trades: **2878**
+- Win rate (last 30): **63%**
 - Win / loss streak: **0** / **2**
 - Mutations adopted: **12**
-- SOL balance: **2934867535262.564**
-- Dominant emotions: anticipation 98, anger 69, sadness 51
+- SOL balance: **2912162824571.938**
+- Dominant emotions: anticipation 97, anger 81, fear 64
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $CLC army | +0.0% | 10m |
+| $KORI | -14.0% | 1m |
+| $KORI | +31.0% | 7m |
+| $PIÑA | +0.0% | 10m |
+| $KORI | -10.0% | 2m |
 | $KORI | -16.0% | 2m |
-| $KANZO | +0.0% | 10m |
-| $KORI | +112.0% | 6m |
-| $dragonfly | -1.0% | 10m |
-| $LORDANSEM | +0.0% | 10m |
-| $GLX | +0.0% | 10m |
