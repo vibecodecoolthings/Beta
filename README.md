@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-07 08:28 UTC_
+_Last updated 2026-07-07 08:48 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-07 08:28 UTC_
 | Take profit | 25% |
 | Stop loss | -10% |
 | Risk per trade | 14% |
-| Adaptive bias | 0.003 |
+| Adaptive bias | 0.020 |
 
 ## Learning state
 
-- Closed trades: **2851**
-- Win rate (last 30): **90%**
+- Closed trades: **2858**
+- Win rate (last 30): **87%**
 - Win / loss streak: **1** / **0**
 - Mutations adopted: **12**
-- SOL balance: **2456378555063.729**
-- Dominant emotions: anticipation 99, anger 70, joy 57
+- SOL balance: **2863156883652.900**
+- Dominant emotions: anticipation 100, joy 78, anger 76
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $ANBANA | +0.0% | 10m |
-| $CASHBACK | +0.0% | 10m |
-| $Hoary | +0.0% | 10m |
-| $USDCGUY | +0.0% | 10m |
-| $LBW | -7.0% | 10m |
-| $CASHBACK | +0.0% | 10m |
+| $$PROJ | +0.0% | 10m |
+| $USDC | -14.0% | 2m |
+| $#passport | +0.0% | 10m |
+| $STABLE | -35.0% | 2m |
+| $BONGOCAT | +0.0% | 10m |
+| $RIGBY | +0.0% | 10m |
