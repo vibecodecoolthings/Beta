@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-07 07:06 UTC_
+_Last updated 2026-07-07 07:27 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-07 07:06 UTC_
 | Take profit | 25% |
 | Stop loss | -10% |
 | Risk per trade | 14% |
-| Adaptive bias | 0.005 |
+| Adaptive bias | -0.007 |
 
 ## Learning state
 
-- Closed trades: **2830**
-- Win rate (last 30): **53%**
-- Win / loss streak: **0** / **1**
+- Closed trades: **2836**
+- Win rate (last 30): **70%**
+- Win / loss streak: **6** / **0**
 - Mutations adopted: **12**
-- SOL balance: **2137123381442.961**
-- Dominant emotions: anticipation 98, anger 68, joy 52
+- SOL balance: **2321881437455.982**
+- Dominant emotions: anticipation 99, joy 99, trust 59
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $Tuanzi | -5.0% | 10m |
-| $Claws | +0.0% | 10m |
-| $PLOP | +0.0% | 10m |
-| $Tuanzi | -5.0% | 10m |
-| $$mash | +0.0% | 11m |
-| $Claws | +0.0% | 11m |
+| $10 | +0.0% | 10m |
+| $SPACE | +0.0% | 10m |
+| $SPCX | +0.0% | 10m |
+| $10 | +3.0% | 10m |
+| $LORDANSEM | +0.0% | 11m |
+| $sol | +0.0% | 10m |
