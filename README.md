@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-08 08:48 UTC_
+_Last updated 2026-07-08 09:08 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-08 08:48 UTC_
 | Take profit | 25% |
 | Stop loss | -10% |
 | Risk per trade | 14% |
-| Adaptive bias | 0.021 |
+| Adaptive bias | 0.016 |
 
 ## Learning state
 
-- Closed trades: **3113**
-- Win rate (last 30): **87%**
-- Win / loss streak: **0** / **1**
+- Closed trades: **3118**
+- Win rate (last 30): **83%**
+- Win / loss streak: **1** / **0**
 - Mutations adopted: **12**
-- SOL balance: **1489826855249.066**
-- Dominant emotions: anticipation 96, anger 66, joy 65
+- SOL balance: **1526663470053.925**
+- Dominant emotions: anticipation 99, joy 83, anger 66
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
+| $Hashbrown | +0.0% | 10m |
+| $Hashbrown | -7.0% | 10m |
+| $TRUMP 250 | +0.0% | 10m |
+| $Hashbrown | +8.0% | 10m |
+| $Hashbrown | +0.0% | 10m |
 | $Hashbrown | -13.0% | 8m |
-| $Pepe V | +0.0% | 10m |
-| $Hashbrown | -27.0% | 3m |
-| $AAI | +0.0% | 10m |
-| $Pepe V | +0.0% | 10m |
-| $pedro  | +0.0% | 10m |
