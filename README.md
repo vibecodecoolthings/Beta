@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-08 13:06 UTC_
+_Last updated 2026-07-08 13:26 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-08 13:06 UTC_
 | Take profit | 25% |
 | Stop loss | -10% |
 | Risk per trade | 15% |
-| Adaptive bias | -0.013 |
+| Adaptive bias | 0.006 |
 
 ## Learning state
 
-- Closed trades: **3176**
-- Win rate (last 30): **90%**
-- Win / loss streak: **13** / **0**
+- Closed trades: **3182**
+- Win rate (last 30): **87%**
+- Win / loss streak: **0** / **1**
 - Mutations adopted: **13**
-- SOL balance: **1310081600947.494**
-- Dominant emotions: anticipation 98, joy 97, trust 75
+- SOL balance: **1469339645107.441**
+- Dominant emotions: anticipation 98, joy 81, trust 67
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $PANDA | +0.0% | 11m |
-| $CANTBRIDGE | +0.0% | 10m |
-| $CASHBULL | +0.0% | 10m |
-| $JMKE | +0.0% | 10m |
-| $Penny | +0.0% | 10m |
-| $CANTBRIDGE | +7.0% | 10m |
+| $Fantoumi | -12.0% | 10m |
+| $$NPUMP | +0.0% | 10m |
+| $KORI | +0.0% | 10m |
+| $? | -2.0% | 10m |
+| $$BBISON | +0.0% | 10m |
+| $$HDM | +0.0% | 10m |
