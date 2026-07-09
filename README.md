@@ -6,35 +6,30 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-09 14:49 UTC_
+_Last updated 2026-07-09 15:09 UTC_
 
 ## Current strategy
 
 | Parameter | Value |
 |---|---|
-| Preferred column | new |
-| Buy threshold | 0.344 |
-| Take profit | 25% |
-| Stop loss | -10% |
-| Risk per trade | 15% |
-| Adaptive bias | 0.006 |
+| Preferred column | migrated |
+| Buy threshold | 0.340 |
+| Take profit | 22% |
+| Stop loss | -12% |
+| Risk per trade | 14% |
+| Adaptive bias | 0.016 |
 
 ## Learning state
 
-- Closed trades: **3386**
-- Win rate (last 30): **77%**
-- Win / loss streak: **1** / **0**
-- Mutations adopted: **13**
-- SOL balance: **756685462540.624**
-- Dominant emotions: anticipation 100, joy 89, anger 60
+- Closed trades: **1**
+- Win rate (last 1): **0%**
+- Win / loss streak: **0** / **1**
+- Mutations adopted: **0**
+- SOL balance: **0.447**
+- Dominant emotions: anticipation 63, trust 46, fear 44
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $COCKROACH | +0.0% | 10m |
-| $? | -8.0% | 10m |
-| $COCKROACH | +0.0% | 10m |
-| $USDCHUD | +0.0% | 10m |
-| $TRUMP | +0.0% | 10m |
-| $COCKROACH | +0.0% | 10m |
+| $BULLCALF | -4.0% | 10m |
