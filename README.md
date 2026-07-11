@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-11 06:59 UTC_
+_Last updated 2026-07-11 07:20 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-11 06:59 UTC_
 | Take profit | 22% |
 | Stop loss | -12% |
 | Risk per trade | 14% |
-| Adaptive bias | 0.055 |
+| Adaptive bias | -0.020 |
 
 ## Learning state
 
-- Closed trades: **587**
-- Win rate (last 30): **47%**
-- Win / loss streak: **0** / **2**
+- Closed trades: **594**
+- Win rate (last 30): **37%**
+- Win / loss streak: **0** / **1**
 - Mutations adopted: **1**
-- SOL balance: **0.419**
-- Dominant emotions: anticipation 100, fear 95, sadness 92
+- SOL balance: **0.459**
+- Dominant emotions: anticipation 99, sadness 86, fear 83
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $LIZARDCOIN | -1.0% | 9m |
-| $reptilecoin | -9.0% | 9m |
-| $SMIRKCAT | +31.0% | 7m |
-| $reptilecoin | -7.0% | 6m |
-| $EVERMEADOW | -14.0% | 9m |
-| $GHOSTI | -43.0% | 2m |
+| $SMIRKCAT | -5.0% | 9m |
+| $LIZARDCOIN | +28.0% | 4m |
+| $reptilecoin | +1.0% | 9m |
+| $LIZARDCOIN | -11.0% | 8m |
+| $GHOSTI | +26.0% | 9m |
+| $reptilecoin | -5.0% | 9m |
