@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-11 03:11 UTC_
+_Last updated 2026-07-11 03:32 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-11 03:11 UTC_
 | Take profit | 22% |
 | Stop loss | -12% |
 | Risk per trade | 14% |
-| Adaptive bias | -0.005 |
+| Adaptive bias | 0.024 |
 
 ## Learning state
 
-- Closed trades: **529**
-- Win rate (last 30): **43%**
-- Win / loss streak: **3** / **0**
+- Closed trades: **535**
+- Win rate (last 30): **33%**
+- Win / loss streak: **0** / **6**
 - Mutations adopted: **1**
-- SOL balance: **0.447**
-- Dominant emotions: anticipation 99, sadness 71, anger 69
+- SOL balance: **0.441**
+- Dominant emotions: anticipation 100, fear 100, sadness 100
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $ANSEM | +1.0% | 9m |
-| $reptilecoin | +12.0% | 9m |
-| $Loom | +21.0% | 9m |
-| $ANSEM | -2.0% | 9m |
-| $tolywifhat | -5.0% | 9m |
-| $Loom | -8.0% | 4m |
+| $Loom | -8.0% | 7m |
+| $mogdog | -11.0% | 8m |
+| $Loom | -12.0% | 2m |
+| $febu | -1.0% | 9m |
+| $Loom | -7.0% | 9m |
+| $SMIRKCAT | -15.0% | 7m |
