@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-11 05:38 UTC_
+_Last updated 2026-07-11 05:58 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-11 05:38 UTC_
 | Take profit | 22% |
 | Stop loss | -12% |
 | Risk per trade | 14% |
-| Adaptive bias | 0.011 |
+| Adaptive bias | 0.024 |
 
 ## Learning state
 
-- Closed trades: **567**
-- Win rate (last 30): **60%**
-- Win / loss streak: **0** / **4**
+- Closed trades: **573**
+- Win rate (last 30): **67%**
+- Win / loss streak: **0** / **2**
 - Mutations adopted: **1**
-- SOL balance: **0.423**
-- Dominant emotions: anticipation 99, anger 85, sadness 63
+- SOL balance: **0.466**
+- Dominant emotions: anticipation 98, anger 86, sadness 56
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $reptilecoin | -5.0% | 9m |
-| $febu | +0.0% | 9m |
-| $SMIRKCAT | -14.0% | 9m |
-| $LIZARDCOIN | -16.0% | 4m |
-| $reptilecoin | +2.0% | 9m |
-| $febu | +3.0% | 9m |
+| $ANSEM | -2.0% | 9m |
+| $LIZARDCOIN | -19.0% | 1m |
+| $SMIRKCAT | +19.0% | 9m |
+| $reptilecoin | +0.0% | 9m |
+| $ANSEM | +1.0% | 9m |
+| $EVERMEADOW | +14.0% | 9m |
