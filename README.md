@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-12 20:05 UTC_
+_Last updated 2026-07-12 20:25 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-12 20:05 UTC_
 | Take profit | 22% |
 | Stop loss | -12% |
 | Risk per trade | 14% |
-| Adaptive bias | 0.004 |
+| Adaptive bias | -0.010 |
 
 ## Learning state
 
-- Closed trades: **1160**
-- Win rate (last 30): **37%**
-- Win / loss streak: **2** / **0**
+- Closed trades: **1166**
+- Win rate (last 30): **43%**
+- Win / loss streak: **0** / **1**
 - Mutations adopted: **1**
-- SOL balance: **0.402**
-- Dominant emotions: anticipation 100, anger 74, sadness 69
+- SOL balance: **0.398**
+- Dominant emotions: anticipation 100, anger 68, sadness 59
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $PumpfunLife | +23.0% | 9m |
-| $TripleT | +2.0% | 9m |
-| $febu | -7.0% | 9m |
-| $PumpfunLife | -10.0% | 8m |
-| $ANSEM | +0.0% | 9m |
-| $febu | -9.0% | 5m |
+| $CATSEM | -12.0% | 4m |
+| $febu | +9.0% | 9m |
+| $PumpfunLife | -12.0% | 8m |
+| $pippin | +1.0% | 9m |
+| $febu | +30.0% | 9m |
+| $ANSEM | +1.0% | 9m |
