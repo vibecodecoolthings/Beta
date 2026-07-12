@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-12 01:36 UTC_
+_Last updated 2026-07-12 01:57 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-12 01:36 UTC_
 | Take profit | 22% |
 | Stop loss | -12% |
 | Risk per trade | 14% |
-| Adaptive bias | 0.019 |
+| Adaptive bias | 0.023 |
 
 ## Learning state
 
-- Closed trades: **875**
-- Win rate (last 30): **60%**
-- Win / loss streak: **1** / **0**
+- Closed trades: **882**
+- Win rate (last 30): **43%**
+- Win / loss streak: **0** / **5**
 - Mutations adopted: **1**
-- SOL balance: **0.462**
-- Dominant emotions: anticipation 100, fear 81, sadness 78
+- SOL balance: **0.534**
+- Dominant emotions: fear 100, sadness 100, anticipation 99
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $ANSEM | +1.0% | 9m |
-| $LCM | -13.0% | 4m |
-| $POINTLESS | +0.0% | 9m |
-| $ANSEM | +0.0% | 9m |
-| $LCM | -10.0% | 2m |
-| $Bellingoal | -3.0% | 9m |
+| $Bellingoal | -27.0% | 1m |
+| $SCAM | -1.0% | 9m |
+| $ANSEM | -1.0% | 9m |
+| $febu | -3.0% | 9m |
+| $tolywifhat | -1.0% | 9m |
+| $LCM | +23.0% | 9m |
