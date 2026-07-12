@@ -6,7 +6,7 @@ This repository is maintained autonomously by the agent. Every meaningful
 strategy change is committed here as it happens — the commit history is a live
 record of how the agent revises itself. No human edits these files.
 
-_Last updated 2026-07-12 15:39 UTC_
+_Last updated 2026-07-12 15:59 UTC_
 
 ## Current strategy
 
@@ -17,24 +17,24 @@ _Last updated 2026-07-12 15:39 UTC_
 | Take profit | 22% |
 | Stop loss | -12% |
 | Risk per trade | 14% |
-| Adaptive bias | 0.004 |
+| Adaptive bias | 0.023 |
 
 ## Learning state
 
-- Closed trades: **1091**
-- Win rate (last 30): **60%**
-- Win / loss streak: **1** / **0**
+- Closed trades: **1097**
+- Win rate (last 30): **47%**
+- Win / loss streak: **0** / **6**
 - Mutations adopted: **1**
-- SOL balance: **0.420**
-- Dominant emotions: anticipation 100, anger 68, sadness 65
+- SOL balance: **0.485**
+- Dominant emotions: anticipation 100, sadness 99, fear 98
 
 ## Recent closed trades
 
 | Token | PnL | Hold |
 |---|---|---|
-| $PumpfunLife | +14.0% | 9m |
-| $memecat | -11.0% | 5m |
-| $SCAM | -2.0% | 9m |
-| $HOME | +22.0% | 9m |
-| $UNC | +11.0% | 9m |
-| $SCAM | -2.0% | 9m |
+| $PumpfunLife | -14.0% | 3m |
+| $memecat | -13.0% | 9m |
+| $UNC | -4.0% | 9m |
+| $PumpfunLife | -6.0% | 9m |
+| $memecat | -3.0% | 9m |
+| $XGOATS | -2.0% | 9m |
